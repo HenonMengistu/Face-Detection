@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82865778901",
+    "firebase_url": "https://my-project-1540459484252.firebaseio.com",
+    "project_id": "my-project-1540459484252",
+    "storage_bucket": "my-project-1540459484252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82865778901:android:2aaee6e510512bb0cb325c",
+        "android_client_info": {
+          "package_name": "com.gebeya.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82865778901-idtahrjvg8mb73dttemr4ko06crothuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofTeyzmSDJMsX83rhb6fLpL20dDoEHmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82865778901-idtahrjvg8mb73dttemr4ko06crothuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
